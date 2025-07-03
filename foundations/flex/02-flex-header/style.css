@@ -1,6 +1,7 @@
 .header  {
   font-family: monospace;
   background: papayawhip;
+  padding: 8px;
 }
 
 .header, ul {
@@ -8,7 +9,6 @@
   align-items: center;
   justify-content: space-between;
   gap: 10px;
-  margin: 10px;
 }
 
 .logo {
